@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fernando Garcia</h1>  
-<h3 align="center">Web Developer ⚡Designer</h3>  
+<h1 align="center">Fernando Garcia</h1>  
+<h3 align="center">Web Developer</h3>  
   
 - 📘  **TypeScript**  enthusiast
 
