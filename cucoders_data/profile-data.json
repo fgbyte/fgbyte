@@ -1,1 +1,19 @@
-{"username":"fgbyte","id":"71539244","name":"Fernando García","company":"Freelancer","web":"https://fgbyte.vercel.app","location":"Remote, USA","email":"fer.garciabayon@gmail.com","hireable":false,"bio":"Web/UX Developer","twitter_username":"fgbyte","headline":"TypeScript enthusiast, Web/UX dev","linkedin_username":"fgbyte","telegram_username":"fgbyte","categories":["freelancer","frontendDev"]}
+{
+    "username": "fgbyte",
+    "id": "71539244",
+    "name": "Fernando García",
+    "company": "Freelancer",
+    "web": "https://fgbyte.vercel.app",
+    "location": "Remote, USA",
+    "email": "fer.garciabayon@gmail.com",
+    "hireable": false,
+    "bio": "",
+    "twitter_username": "fgbyte",
+    "headline": "Front-end, TypeScript enthusiast, Content creator",
+    "linkedin_username": "fgbyte",
+    "telegram_username": "fgbyte",
+    "categories": [
+        "frontendDev",
+        "freelancer"
+    ]
+}
