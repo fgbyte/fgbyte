@@ -1,5 +1,9 @@
-<h1 align="center">Fernando Garcia</h1>  
-<h3 align="center">Fronted UX Developer 💻</h3>  
+<h2 align="">Frontend UX Developer 💻</h1>  
+
+I specialize my knowledge in technology to identify business opportunities, develop applications, optimize processes and maximize yields.
+
+I also make websites :)
+
   
 - 📘  **TypeScript**  enthusiast
 
