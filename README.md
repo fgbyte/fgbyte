@@ -1,5 +1,5 @@
 <h1 align="center">Fernando Garcia</h1>  
-<h3 align="center">Fronted Web Developer 💻</h3>  
+<h3 align="center">Fronted UX Developer 💻</h3>  
   
 - 📘  **TypeScript**  enthusiast
 
