@@ -9,12 +9,12 @@ I also make websites :)
 
 - 🌱 I’m currently learning **React**  
   
-- 📝 I regularly write articles on **[fgbyte.vercel.app](https://fgbyte.vercel.app)**
+- 📝 I regularly write articles **[here](https://fgbyte.vercel.app/blog/1)**.
   
 - 💬 Ask me about **Astro, NodeJS, WebScraping**
 
 
-These are my current go-to skills🧠
+<h4>These are my current go-to skills🧠</h4>
 <p align="left">
 	<a href="https://astro.build" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/logomark-light.svg" alt="bootstrap" width="40" height="40"> </a>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
