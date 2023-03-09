@@ -16,7 +16,7 @@ I also make websites :)
 
 <h4>These are my current go-to skills🧠</h4>
 <p align="left">
-	<a href="https://astro.build" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/astro-icon-light.svg" alt="bootstrap" width="40" height="40"> </a>
+	<a href="https://astro.build" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/qzD.svg" alt="bootstrap" width="40" height="40"> </a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
