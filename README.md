@@ -1,6 +1,6 @@
 <h2 align="">Frontend UX Developer 💻</h1>  
 
-I specialize my knowledge in technology to identify business opportunities, develop applications, optimize processes and maximize yields.
+I share specialize knowledge in technology to identify business opportunities, develop applications, optimize processes and maximize yields.
 
 I also make websites :)
 
@@ -11,7 +11,7 @@ I also make websites :)
   
 - 📝 I regularly write articles **[here](https://fgbyte.vercel.app/blog/1)**.
   
-- 💬 Ask me about **Astro, NodeJS, WebScraping**
+- 💬 Ask me about **Astro, Tailwind, NodeJS-WebScraping**
 
 
 <h4>These are my current go-to skills🧠</h4>
