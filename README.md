@@ -1,17 +1,13 @@
-<h2 align="">Frontend UX Developer 💻</h1>  
-
-I share specialize knowledge in technology to identify business opportunities, develop applications, optimize processes and maximize yields.
-
-I also make websites :)
+<h2 align="">Frontend⚡UX Developer</h2>  
 
   
-- 📘  **TypeScript**  enthusiast
+- 📈  **Growth Hacking**  enthusiast
 
-- 🌱 I’m currently learning **React**  
+- 🌱 I’m currently learning **Typescript**  
   
-- 📝 I regularly write articles in **[my blog](https://fgbyte.vercel.app/blog/1)**
-  
-- 💬 Ask me about **Astro, Tailwind, WebScraping**
+- 📝 I regularly write articles on **[my blog](https://fgbyte.vercel.app/blog/1)**
+
+- 🤝 If you need my services, please visit **[my portfolio](https://fgbyte.vercel.app/projects)**
 
 
 <h4>These are my current go-to skills🧠</h4>
