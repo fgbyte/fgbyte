@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Typescript**  
   
-- 📝 I regularly write articles on **[my blog](https://fgbyte.vercel.app/blog/1)**
+- 📝 I regularly write articles on **[fgbyte.com](https://fgbyte.com)**
 
-- 🤝 If you need my services, please visit **[my portfolio](https://fgbyte.vercel.app/projects)**
+- 🤝 I would be happy to offer you my experience and **[skills](https://fgbyte.com/cv)**
 
 
 <h4>💻Fav tech stack</h4>
