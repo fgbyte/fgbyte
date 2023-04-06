@@ -1,4 +1,4 @@
-<h2 align="">Frontend⚡UX Developer</h2>  
+<h2 align="">Frontend Developer</h2>  
 
   
 - 📈  **Growth Hacking**  enthusiast
