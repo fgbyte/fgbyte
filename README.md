@@ -20,5 +20,5 @@
 	<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="cloudflare" width="40" height="40"/> </a>
 </p>
 
-![fgbyte's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgbyte&show_icons=true&theme=transparent)
+<!-- ![fgbyte's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgbyte&show_icons=true&theme=transparent) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgbyte&hide_progress=true&theme=transparent)
