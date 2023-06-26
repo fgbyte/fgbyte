@@ -4,8 +4,6 @@ I'm Fernando Garcia, a developer passionate about speed, security and performanc
   
 - 📈  **Growth Hacking**  enthusiast
 
-- 🌱 I’m currently learning **Typescript**  
-  
 - 📝 I regularly write articles on **[fgbyte.com](https://fgbyte.com)**
 
 - 🤝 I would be happy to offer you my experience and **[skills](https://fgbyte.com/cv)**
