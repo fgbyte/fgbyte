@@ -1,5 +1,6 @@
 <h2 align="">Frontend Developer</h2>  
 
+💻 I'm Fernando Garcia, a Frontend Developer passionate about speed, security and performance. I specialize in user interface development for creating scalable frontend solutions.
   
 - 📈  **Growth Hacking**  enthusiast
 
@@ -22,3 +23,5 @@
 
 <!-- ![fgbyte's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgbyte&show_icons=true&theme=transparent) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgbyte&hide_progress=true&theme=transparent)
+
+ 
