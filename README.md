@@ -1,6 +1,6 @@
 <h2 align="">Frontend Developer</h2>  
 
-💻 I'm Fernando Garcia, a Frontend Developer passionate about speed, security and performance. I specialize in user interface development for creating scalable frontend solutions.
+💻 I'm Fernando Garcia, a developer passionate about speed, security and performance. I specialize in user interface development for creating scalable frontend solutions.
   
 - 📈  **Growth Hacking**  enthusiast
 
@@ -24,4 +24,12 @@
 <!-- ![fgbyte's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgbyte&show_icons=true&theme=transparent) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgbyte&hide_progress=true&theme=transparent)
 
+<h2 class="text-3xl w-full font-bold">Certifications</h2>
+<ul class="list-disc mx-6 mb-10 grid gap-2">
+    <li>
+      <a href="https://community.open-bootcamp.com/user/fgbyte/certificaciones/d604a704-67e9-487d-9301-7bbc64e5a629" target="_blank">Open-Bootcamp <b>HTML-CSS</b> Certification</a>
+    </li>
+    <li>
+      <a href="https://community.open-bootcamp.com/user/fgbyte/certificaciones/0cf954b5-9df9-4477-bdd1-8df1df9fab36" target="_blank">Open-Bootcamp <b>JavaScript</b> Certification </a>
+    </li>
  
