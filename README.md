@@ -1,6 +1,6 @@
 <h2 align="">Frontend Developer</h2>  
 
-I'm Fernando Garcia, a developer passionate about speed, security and performance. I specialize in user interface development for creating scalable frontend solutions.
+I'm Fernando Garcia, a developer passionate about speed, security and continuous improvement. I specialize in user interface development for creating scalable frontend solutions.
   
 - 📈  **Growth Hacking**  enthusiast
 
