@@ -9,7 +9,7 @@ I'm Fernando Garcia, a developer passionate about speed, security and continuous
 - 🤝 I would be happy to offer you my experience and **[skills](https://fgbyte.com/cv)**
 
 
-<h3>💻 Tech stack</h3>
+<h4>💻 Tech stack</h4>
 <p align="left">
 <!-- 	<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="html5"/> </a> -->
 <!-- 	<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="html5"/> </a> -->
