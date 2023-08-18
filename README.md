@@ -16,7 +16,7 @@ I'm Fernando Garcia, a developer passionate about speed, security and continuous
 	<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="react"</a>
 	<a href="https://javascript.info" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="javascript"/> </a>
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="typescript"/> </a>
-	<a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge" alt="vite"</a>
+<!-- 	<a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge" alt="vite"</a> -->
 </p>
 		
 <h4>🛠️ Frameworks/Tools</h4>
