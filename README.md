@@ -18,7 +18,7 @@ I'm Fernando Garcia, a developer passionate about speed, security and continuous
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="typescript"/> </a>
 </p>
 
-<h4>⚙️ Frameworks Tools</h4>
+<h4>⚙️ Frameworks / Tools</h4>
 <p align="left">
 	<a href="https://astro.build" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge" alt="astro"</a>
 <!-- 	<a href="https://solidjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff&style=for-the-badge" alt="solidjs"</a> -->
@@ -28,7 +28,7 @@ I'm Fernando Garcia, a developer passionate about speed, security and continuous
 	<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=for-the-badge" alt="storybook"/> </a>
  </p>
 		
-<h4>🌐 Cloud Services</h4>
+<h4>🌐 Cloud / Services</h4>
 <p align="left">
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="figma"/> </a>
 	<a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" alt="vercel"/> </a>
