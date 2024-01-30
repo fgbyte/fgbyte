@@ -2,11 +2,11 @@
 
 I'm Fernando Garcia, a developer passionate about speed, security and continuous improvement. I specialize in user interface development for creating scalable frontend solutions.
   
-- 📈  **Growth Hacking**  enthusiast
+- 📈  **Growth Hacking**  enthusiast.
 
-- 📝 I regularly write articles on **[fgbyte.com](https://fgbyte.com)**
+- 👀 My Portfolio **[fgbyte.com](https://fgbyte.com/projects)**.
 
-- 🤝 I would be happy to offer you my experience and **[skills](https://fgbyte.com/cv)**
+- 🤝 I would be happy to offer you my experience and **[skills](https://fgbyte.com/cv)**.
 
 
 <h4>💻 Tech stack</h4>
