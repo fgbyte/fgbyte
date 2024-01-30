@@ -16,6 +16,7 @@ I'm Fernando Garcia, a developer passionate about speed, security and continuous
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge" alt="sass"/> </a>
 	<a href="https://javascript.info" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="javascript"/> </a>
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="typescript"/> </a>
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="figma"/> </a>
 </p>
 
 <h4>⚙️ Frameworks / Tools</h4>
@@ -30,7 +31,6 @@ I'm Fernando Garcia, a developer passionate about speed, security and continuous
 		
 <h4>🌐 Cloud / Services</h4>
 <p align="left">
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="figma"/> </a>
 	<a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" alt="vercel"/> </a>
 	<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge" alt="cloudflare"/> </a>
 </p>
