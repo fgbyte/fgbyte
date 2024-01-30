@@ -4,7 +4,7 @@ I'm Fernando Garcia, a developer passionate about speed, security and continuous
   
 - 📈  **Growth Hacking**  enthusiast.
 
-- 👀 My Portfolio **[fgbyte.com](https://fgbyte.com/projects)**.
+- 👀 **[My Portfolio](https://fgbyte.com/projects)**.
 
 - 🤝 I would be happy to offer you my experience and **[skills](https://fgbyte.com/cv)**.
 
