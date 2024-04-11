@@ -2,7 +2,7 @@
 
 I'm Fernando Garcia, a developer passionate about speed, security and continuous improvement. I specialize in user interface development for creating scalable frontend solutions.
   
-- 🤝 I would be happy to offer you my experience and **[skills](https://fgbyte.com/cv)**.
+- 🤝 I would be happy to offer my experience and **[skills](https://fgbyte.com/cv)**.
 
 
 
