@@ -4,9 +4,7 @@ Glad to see you here! I'm Fernando Garcia, a developer passionate about speed, s
   
 I would be happy to offer my experience and skills.
 
-
-
-<h3>Tech stack</h3>
+### Tech stack
 <p>I mostly work with <b>TypeScript</b>, specifically <b>React.js</b> on UI development using <b>Storybook</b>, also with fullstack frameworks for entire WebApps such as <b>Remix</b> and <b>Astro</b>.</p>
 <p align="left">
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="typescript"/> </a>
@@ -19,7 +17,7 @@ I would be happy to offer my experience and skills.
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat" alt="figma"/> </a>
  </p>
 		
-<h3>Cloud Platforms</h3>
+### Cloud Platforms
 <p align="left">
 	<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=flat" alt="shopify"/> </a>
 	<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="cloudflare"/> </a>
@@ -29,7 +27,7 @@ I would be happy to offer my experience and skills.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgbyte&hide_progress=true&theme=transparent)
 
-<h3>Let's connect!</h3>
+### Let's connect!
 
 Explore my thoughts at [fgbyte.com](https://fgbyte.com), and let's connect on 𝕏 [(Twitter)](https://twitter.com/fgbyte) and [LinkedIn](https://www.linkedin.com/in/fgbyte).
 
