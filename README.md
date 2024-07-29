@@ -18,7 +18,7 @@ I would be happy to offer my experience and skills 🛠️.
  </p>
 		
 ### Cloud Platforms
-<p>Currently, I'm building on top of Shopify for ecommerces and usign platforms like Cloudflare or Vercel for host WebApps and obtain serverless functions.</p>
+<p>Currently, I'm building on top of <b>Shopify</b> for ecommerces and usign platforms like <b>Cloudflare</b> or <b>Vercel</b> for host WebApps and obtain serverless functions.</p>
 <p align="left">
 	<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=flat" alt="shopify"/> </a>
 	<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="cloudflare"/> </a>
