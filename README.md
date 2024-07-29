@@ -1,11 +1,11 @@
-<h2 align="">Frontend Web Developer</h2>  
+<h1 align="center">👋 Hello!!</h1>  
 
-Glad to see you here! I'm Fernando Garcia, a developer passionate about speed, security and continuous improvement on ecommerce world.
+I'm **Fernando Garcia**, a developer passionate about speed, security and continuous improvement on ecommerce world.
   
-I would be happy to offer my experience and skills.
+I would be happy to offer my experience and skills 🛠️.
 
 ### Tech stack
-<p>I mostly work with <b>TypeScript</b>, specifically <b>React.js</b> on UI development using <b>Storybook</b>, also with fullstack frameworks for entire WebApps such as <b>Remix</b> and <b>Astro</b>.</p>
+<p>I mostly work with <b>TypeScript</b>, specifically on UI development using <b>React.js</b> and <b>Storybook</b> as component library, also with fullstack frameworks like <b>Remix</b> and <b>Astro</b> for Web Applications. I am proficient futher in Adobe Photoshop, Adobe XD and Figma for design works.</p>
 <p align="left">
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="typescript"/> </a>
 	<a href="https://astro.build" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=flat" alt="astro"</a>
@@ -18,6 +18,7 @@ I would be happy to offer my experience and skills.
  </p>
 		
 ### Cloud Platforms
+<p>Currently, I'm building on top of Shopify for ecommerces and usign platforms like Cloudflare or Vercel for host WebApps and obtain serverless functions.</p>
 <p align="left">
 	<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=flat" alt="shopify"/> </a>
 	<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="cloudflare"/> </a>
