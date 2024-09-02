@@ -1,11 +1,11 @@
-<h1 align="">👋 Hello Voyager!!</h1>  
+<h1 align="">👋 Hello!</h1>  
 
-Glad to see you here. I'm **Fernando Garcia**, Frontend Web Developer ready to transform ideas into beautiful, functional websites. From sleek interfaces to seamless interactions, I’m here to offer my skills and expertise 🛠️ to help bring your digital projects to life.
+Glad to see you here. I'm **Fernando Garcia**, Frontend Web Developer ready to transform ideas into beautiful functional websites.
 
 Let's connect and create something special!
 
 ### Tech stack
-<p>I mostly work with <b>TypeScript</b>, specifically on UI development using <b>React.js</b> and <b>Storybook</b> as component library, also with fullstack frameworks like <b>Remix</b> and <b>Astro</b> for Web Applications. I am proficient futher in Adobe Photoshop, Adobe XD and Figma for design works.</p>
+<p>I mostly work with <b>TypeScript</b>, specifically on UI development using <b>React.js</b> and <b>Storybook</b> as component library, also with fullstack frameworks like <b>Remix</b>.
 <p align="left">
 	<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=flat" alt="storybook"></a>
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="typescript"></a>
@@ -18,7 +18,7 @@ Let's connect and create something special!
  </p>
 		
 ### Cloud Platforms
-<p>Currently, I'm building on top of <b>Shopify</b> for ecommerces and usign platforms like <b>Cloudflare</b> or <b>Vercel</b> for host WebApps and obtain serverless functions.</p>
+<p>Currently, I'm building on top of <b>Shopify</b> for ecommerces and usign platforms like <b>Cloudflare</b> and <b>Chromatic</b>.</p>
 <p align="left">
 	<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=flat" alt="shopify"></a>
 	<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="cloudflare"></a>
