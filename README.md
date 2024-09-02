@@ -2,8 +2,6 @@
 
 Glad to see you here. I'm **Fernando Garcia**, Frontend Web Developer ready to transform ideas into beautiful functional websites.
 
-Let's connect and create something special!
-
 ### Tech stack
 <p>I mostly work with <b>TypeScript</b>, specifically on UI development using <b>React.js</b> and <b>Storybook</b> as component library, also with fullstack frameworks like <b>Remix</b>.
 <p align="left">
