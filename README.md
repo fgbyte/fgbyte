@@ -1,4 +1,4 @@
-<h1 align="">👋 Greetings!</h1>  
+<h1 align="">👋 Hello!</h1>  
 
 I'm **Fernando**, An Innovative Software Developer 🤑
 
