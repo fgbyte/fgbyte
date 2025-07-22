@@ -1,6 +1,6 @@
 <h1 align="">👋 Hello!</h1>  
 
-I'm **Fernando**, an Innovative Software Developer 
+I'm **Fernando**,
 
 Visit my website [fgbyte.com](https://fgbyte.com) 🙉
 
