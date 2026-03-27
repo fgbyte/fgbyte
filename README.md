@@ -2,7 +2,7 @@
 
 I'm **Fernando**,
 
-Visit my website [fgbyte.com](https://fgbyte.com) 🙉
+Visit my website [fgbyte.github.io](https://fgbyte.github.io) 🙉
 
 
 ![Streaks](https://github-readme-stats.vercel.app/api?username=fgbyte&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10)
