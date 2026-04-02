@@ -1,12 +1,11 @@
 <h1 align="">👋 Hello!</h1>  
 
-I'm **Fernando**,
+I'm **Fernando Garcia** Fullstack Developer,
 
-Visit my website [fgbyte.github.io](https://fgbyte.github.io) 🙉
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/ad65d55e-d7e9-41c6-92da-ded836673ed8" />
 
 
-![Streaks](https://github-readme-stats.vercel.app/api?username=fgbyte&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgbyte&hide=HTML,lua,javascript&theme=dark&langs_count=6&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+#### My Porfolio and Services [fgbyte.github.io](https://fgbyte.github.io)
 
 ### Let's connect! 🤝
 [![Twitter Follow](https://img.shields.io/twitter/follow/fgbyte?style=social)](https://twitter.com/fgbyte) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=fgbyte&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/fgbyte/) [![GitHub followers](https://img.shields.io/github/followers/fgbyte.svg?label=Follow%20@fgbyte&style=social)](https://github.com/fgbyte/)
