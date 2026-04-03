@@ -4,6 +4,7 @@ I'm **Fernando Garcia** Fullstack Developer,
 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/ad65d55e-d7e9-41c6-92da-ded836673ed8" />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=fgbyte&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 #### My Porfolio and Services [fgbyte.github.io](https://fgbyte.github.io)
 
