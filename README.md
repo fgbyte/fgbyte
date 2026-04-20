@@ -6,10 +6,9 @@ I'm **Fernando Garcia** Fullstack Developer,
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fgbyte&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=71539244&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @fgbyte" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=71539244&image_size=auto&color_scheme=light" width="771" height="auto">
-</picture>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=71539244" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=71539244&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Dashboard stats of @fgbyte">
+</a>
 
 
 ### Let's connect!
