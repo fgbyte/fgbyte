@@ -3,17 +3,15 @@
     "id": "71539244",
     "name": "Fernando García",
     "company": "Freelancer",
-    "web": "https://fgbyte.com",
     "location": "Remote",
     "email": "fer.garciabayon@gmail.com",
     "hireable": true,
     "bio": "TypeScript enthusiast",
     "twitter_username": "fgbyte",
-    "headline": "Frontend Web Developer",
+    "headline": "Software Developer",
     "linkedin_username": "fgbyte",
     "telegram_username": "fgbyte",
     "categories": [
-        "frontendDev",
-        "freelancer"
+        "freelancer",
     ]
 }
