@@ -2,7 +2,7 @@ I'm **Fernando Garcia** Product Engineer,
 
 I enjoy working across the full stack, from UI design to backend systems, infrastructure and deployment.
 
-- Personal Website: https://fgbyte.github.io
+- Portfolio: https://fgbyte.github.io
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=71539244" target="_blank">
   <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=71539244&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Dashboard stats of @fgbyte">
