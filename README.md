@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm **Fernando** ~ **fgbyte**,
 
-Self-taught, Fullstack, Product Engineer, and Mechanical Keyboard lover.
+Self-taught, Fullstack Web Developer.
 
 I enjoy owning the whole process 🏝️, from UI to Backend systems, across Infra and AI.
 
