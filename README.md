@@ -6,7 +6,7 @@ Self-taught, Fullstack Web Developer.
 
 I enjoy owning the whole process 🏝️, from UI to Backend systems, across Infra and AI.
 
-Full Typescript in Cloudflare⛅, Rust dev one day 🦀.
+Pushing Typescript to Cloudflare⛅, Rust dev one day 🦀.
 
 My Portfolio: https://fgbyte.github.io
 
