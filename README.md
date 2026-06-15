@@ -2,9 +2,9 @@ Hi there 👋
 
 I'm **Fernando** ~ **fgbyte**,
 
-Autodidact, Fullstack, Product Engineer, and Mechanic Keyboard lover.
+Self-taught, Fullstack, Product Engineer, and Mechanical Keyboard lover.
 
-I enjoy working around the whole process 🏝️, from UI to Backend systems, across Infra and AI.
+I enjoy owning the whole process 🏝️, from UI to Backend systems, across Infra and AI.
 
 Full Typescript in Cloudflare⛅, Rust dev one day 🦀.
 
